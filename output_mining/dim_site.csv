@@ -1,0 +1,11 @@
+code_site,nom_site,zone
+LOC01,Pit_Nord,Traitement
+LOC02,Pit_Sud,Zone A
+LOC03,Crusher_01,Zone C
+LOC04,Waste_Dump,Maintenance
+LOC05,Stockpile,Zone B
+LOC06,Pit_Est,Traitement
+LOC07,Crusher_02,Traitement
+LOC08,Pit_Ouest,Zone C
+LOC09,ROM_Pad,Zone C
+LOC10,Workshop,Maintenance
