@@ -2,3 +2,5 @@
 
 .env
 *.pem
+.env
+*.pem
