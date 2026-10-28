@@ -1,4 +1,4 @@
-code_cycle,date_heure,code_engin,site_chargement,site_dechargement,code_equipe,cycle_minutes,payload_tonnes,nb_trajets,statut,date_parsee,motifs_rejet
+﻿code_cycle,date_heure,code_engin,site_chargement,site_dechargement,code_equipe,cycle_minutes,payload_tonnes,nb_trajets,statut,date_parsee,motifs_rejet
 CY00009,2026-09-08 20:50,TR030,LOC07,LOC06,EQ04,51.2,-157.4,4,Terminé,2026-09-08 20:50:00,Payload invalide
 CY00021,2026-09-27 13:11,TR006,LOC09,LOC08,EQ06,38.8,-222.7,1,Terminé,2026-09-27 13:11:00,Payload invalide
 CY00030,2026-09-02 02:31,TR006,LOC06,LOC05,EQ06,56.1,-150.5,2,Annulé,2026-09-02 02:31:00,Payload invalide
