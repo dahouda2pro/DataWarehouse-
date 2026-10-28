@@ -6,7 +6,7 @@ from ultralytics import YOLO
 model = YOLO("yolo26n.pt")
 
 # Capture one frame from your RTSP stream
-url = "rtsp://rtsp.rtsplink.com/live/people?token=02413f2d359a15dab4c1093aa226f1c0563e000f172a05846e2045c4db0d6932"
+url = "rtsp://rtsp.rtsplink.com/live/traffic?token=e11b68d6dedd8e4f671af2cf04de6e7c95bc1f00453664934e2b641e8c8ac122"
 cap = cv2.VideoCapture(url, cv2.CAP_FFMPEG)
 
 try:
