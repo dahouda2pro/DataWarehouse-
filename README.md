@@ -25,7 +25,7 @@ The script creates and populates these tables in Aiven MySQL:
 
 Visualize in https://app.libredb.org/
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 ### 2.3 Important technical features
 - Uses SQLAlchemy and PyMySQL to connect to Aiven MySQL.
